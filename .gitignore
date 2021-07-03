@@ -1,0 +1,6 @@
+config.json
+output.log
+test.py
+assets/*
+new-files/*
+old-files/*
